@@ -185,6 +185,7 @@ Booleans can be only two values: `true` or `false`. Booleans can help make decis
 ## 🚀 Challenge
 
 JavaScript is notorious for its surprising ways of handling datatypes on occasion. Do a bit of research on these 'gotchas'. For example: case sensitivity can bite! Try this in your console: `let age = 1; let Age = 2; age == Age` (resolves `false` -- why?). What other gotchas can you find?
+the == looks for everything being hte same. Another gotcha is == v. ===.
 
 ## Review & Self Study
 
